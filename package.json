@@ -1,0 +1,8 @@
+{
+  "name": "observedb-server",
+  "version": "0.0.1",
+  "description": "A real-time database proxy utilizing Nest.js, Cote, Sequelize, and Socket.io for Websockets",
+  "main": "index.js",
+  "author": "Ben Morgan",
+  "license": "MIT"
+}
